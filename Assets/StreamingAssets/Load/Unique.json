@@ -1,0 +1,26 @@
+{
+  "unique":
+  [
+    {
+      "id":0,
+      "path":"Prefabs/BigTree",
+      "active":true,
+      "position":{"x":166.0,"y":10.9,"z":81.9},
+      "renderDistance":100.0
+    },
+    {
+      "id":1,
+      "path":"Prefabs/Fort",
+      "active":true,
+      "position":{"x":20,"y":-0.2,"z":160.0},
+      "renderDistance":80.0
+    },
+    {
+      "id":2,
+      "path":"Prefabs/NPC1",
+      "active":true,
+      "position":{"x":41.0,"y":0.3,"z":52.0},
+      "renderDistance":60.0
+    }
+  ]
+}
